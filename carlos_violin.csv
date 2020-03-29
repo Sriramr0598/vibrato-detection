@@ -1,0 +1,27 @@
+Note,Presence_of_Vibrato,Peak_Percentage,Mean_Difference,Max_Difference,Index_Max,Location_Max(%),Start_End_Time (seconds),Duration,Notes
+G4,no vibrato,0.09082652134,nan,nan,nan,nan,nan,nan,
+G#4,no vibrato,0.5529225908,128,695,5,1,nan,nan,
+A4,no vibrato,1.692307692,29.66666667,325,20,1,nan,nan,
+A#4,no vibrato,2.577319588,21.72413793,163,11,0.4137931034,nan,nan,
+B4,no vibrato,0.6235385815,74,429,2,0.4285714286,nan,nan,
+C5,no vibrato,1.504424779,46.375,232,1,0.125,nan,nan,
+C#5,no vibrato,6.25,13.38181818,344,17,0.3272727273,nan,nan,
+D5,no vibrato,2.93040293,18.22580645,156,23,0.7741935484,nan,nan,
+D#5,no vibrato,0.1075268817,nan ,nan,nan,nan,nan,nan,
+E5,no vibrato,0.5429864253,144.2,417,0,0.2,nan,nan,
+F5,no vibrato,0.6302521008,109.2,401,1,0.4,nan,nan,
+F#5,no vibrato,1.180744777,57.083,227,3,0.33,nan,nan,
+G5,no vibrato,1.111111111,65.4,515,9,1,nan,nan,
+G4,vibrato,0.5678233438,87.125,463,4,0.625,nan,nan,
+G#4,vibrato,3.553800592,19.8,79,"17,33",0.5142857143,0.27:2.28,2.01,
+A4,vibrato,2.53164557,20,65,"0,22",0.04347826087,0.2:2.07,1.87,"With frame size 2048,pitch is not continous, vibrato is not significant. Should be lower."
+A#4,vibrato,4.746835443,15.52272727,67,30,0.7045454545,0.22:2.2,1.98,Templates are not appropriate to detect.
+B4,vibrato,3.112033195,20.79310345,51,26,0.9310344828,0.36:2.14,1.78,Templates and pitch are better after B4 with frame size 2048.
+C5,vibrato,3.862660944,15.65714286,34,21,0.6285714286,0.29:1.87,1.58,
+C#5,vibrato,3.861386139,18.39473684,89,0,0.02631578947,0.38:2.14,1.76,
+D5,vibrato,3.619909502,19.35897436,91,36,0.9487179487,0.40:2.0,1.6,
+D#5,vibrato,6.236323851,11.78571429,36,0,0.01785714286,0.3:2.11,2.81,Templates are smooth and well-shaped.
+E5,vibrato,3.047619048,22.61290323,100,27,0.9032258065,0.34:2.24,1.9,
+F5,vibrato,4.343434343,15.57142857,65,30,0.7380952381,0.34:2.24,1.9,
+F#5,vibrato,5.018939394,11.88461538,43,44,0.8653846154,0.6:2.4,1.8,
+G5,vibrato,5.714285714,12.69090909,39,20,0.3818181818,0.19:2.21,2.02,Square-wave-like templates

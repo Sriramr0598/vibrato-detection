@@ -1,0 +1,27 @@
+File_Name,Note,Presence_of_Vibrato,Peak_Percentage,Mean_Difference,Max_Difference,Index_Max (First one/ Last one would make more sense),Location_Max(%),Start_End_Time (seconds),Duration,Notes
+153731__carlos-vaquero__violoncello-d-3-tenuto-non-vibrato.wav,D3,no vibrato,3.142458101,22.65909091,392,35,0.8181818182,nan,nan,For peak limitation maximim value of 100 is not enough.
+153732__carlos-vaquero__violoncello-d-3-tenuto-non-vibrato.wav,D#3,no vibrato,18.38905775,3,135,9,0.04149377593,nan,nan,
+153733__carlos-vaquero__violoncello-e-3-tenuto-non-vibrato.wav,E3,no vibrato,13.77513031,5.22826087,201,45,0.25,nan,nan,Better results with frame size 4096.
+153734__carlos-vaquero__violoncello-f-3-tenuto-non-vibrato.wav,F3,no vibrato,4.558823529,13.81967213,407,57,0.9508196721,nan,nan,
+153735__carlos-vaquero__violoncello-f-3-tenuto-non-vibrato.wav,F#3,no vibrato,1.50862069,42.85,317,9,0.5,nan,nan,
+153736__carlos-vaquero__violoncello-g-3-tenuto-non-vibrato.wav,G3,no vibrato,1.573676681,42.04761905,602,4,0.2380952381,nan,nan,
+153737__carlos-vaquero__violoncello-g-3-tenuto-non-vibrato.wav,G#3,no vibrato,7.916986933,8.598039216,142,48,0.4803921569,nan,nan,
+153738__carlos-vaquero__violoncello-a-3-tenuto-non-vibrato.wav,A3,no vibrato,5.984251969,11.69333333,346,49,0.6666666667,nan,nan,
+153739__carlos-vaquero__violoncello-a-3-tenuto-non-vibrato.wav,A#3,no vibrato,0.3233629749,258.3333333,767,2,1,nan,nan,
+153740__carlos-vaquero__violoncello-b-3-tenuto-non-vibrato.wav,B3,no vibrato,1.479046836,49.52941176,587,15,0.9411764706,nan,nan,
+153741__carlos-vaquero__violoncello-c-4-tenuto-non-vibrato.wav,C4,no vibrato,3.079416532,6.567567568,99,0,0.02702702703,nan,nan,
+153742__carlos-vaquero__violoncello-c-4-tenuto-non-vibrato.wav,C#4,no vibrato,1.041666667,61.90909091,611,7,0.7272727273,nan,nan,
+153743__carlos-vaquero__violoncello-a-3-tenuto-non-vibrato.wav,D4,no vibrato,24.16731216,4.138263666,562,56,0.1832797428,nan,nan,Wrongly named
+153757__carlos-vaquero__violoncello-d-3-tenuto-vibrato.wav,D3,vibrato,6.968124537,12.80645161,458,8,0.09677419355,,,
+153758__carlos-vaquero__violoncello-d-3-tenuto-vibrato.wav,D#3,vibrato,4.91510277,11.83333333,49,32,0.6111111111,,,
+153759__carlos-vaquero__violoncello-e-3-tenuto-vibrato.wav,E3,vibrato,9.680207433,6.828828829,44,100,0.9099099099,,,
+153760__carlos-vaquero__violoncello-f-3-tenuto-vibrato.wav,F3,vibrato,16.7587477,4.215469613,39,180,1,,,
+153761__carlos-vaquero__violoncello-f-3-tenuto-vibrato.wav,F#3,vibrato,3.32733813,21.13888889,79,0,0.02777777778,,,
+153762__carlos-vaquero__violoncello-g-3-tenuto-vibrato.wav,G3,vibrato,11.14155251,6.214876033,38,116,0.9669421488,,,
+153763__carlos-vaquero__violoncello-g-3-tenuto-vibrato.wav,G#3,vibrato,12.48808389,5.776923077,54,26,0.2076923077,,,
+153764__carlos-vaquero__violoncello-a-3-tenuto-vibrato.wav,A3,vibrato,7.367387033,9.540540541,68,72,0.9864864865,,,
+153765__carlos-vaquero__violoncello-a-3-tenuto-vibrato.wav,A#3,vibrato,7.034220532,9.863013699,43,1,0.02739726027,,,
+153766__carlos-vaquero__violoncello-b-3-tenuto-vibrato.wav,B3,vibrato,6.189555126,11.98412698,76,62,1,,,
+153767__carlos-vaquero__violoncello-c-4-tenuto-vibrato.wav,C4,vibrato,3.457943925,20.08333333,108,11,0.3333333333,,,
+153768__carlos-vaquero__violoncello-c-4-tenuto-vibrato.wav,C#4,vibrato,6.066350711,11.58730159,33,28,0.4603174603,,,
+153769__carlos-vaquero__violoncello-d-4-tenuto-vibrato.wav,D4,vibrato,6.231155779,11.6557377,36,4,0.08196721311,,,

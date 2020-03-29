@@ -1,0 +1,739 @@
+[{
+    "File_Name": "Neumman-03 render 001.wav",
+    "Note": "G3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 002.wav",
+    "Note": "G#3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 003.wav",
+    "Note": "A3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 004.wav",
+    "Note": "A#3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 005.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 006.wav",
+    "Note": "C4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 007.wav",
+    "Note": "C#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 008.wav",
+    "Note": "D4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-03 render 009.wav",
+    "Note": "D#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 001.wav",
+    "Note": "E4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 002.wav",
+    "Note": "F4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 003.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 004.wav",
+    "Note": "G4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 005.wav",
+    "Note": "G#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 006.wav",
+    "Note": "A4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 007.wav",
+    "Note": "A#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 008.wav",
+    "Note": "B4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-04 render 009.wav",
+    "Note": "C5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 001.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 002.wav",
+    "Note": "D5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 003.wav",
+    "Note": "D#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 004.wav",
+    "Note": "E5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 005.wav",
+    "Note": "F5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 006.wav",
+    "Note": "F#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 007.wav",
+    "Note": "G5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-05 render 008.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-06 render 001.wav",
+    "Note": "A5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-06 render 002.wav",
+    "Note": "A#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 001.wav",
+    "Note": "G3",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 002.wav",
+    "Note": "G#3",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 003.wav",
+    "Note": "A3",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 004.wav",
+    "Note": "A#3",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 005.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 006.wav",
+    "Note": "C4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 007.wav",
+    "Note": "C#4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 008.wav",
+    "Note": "D4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 009.wav",
+    "Note": "D#4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 010.wav",
+    "Note": "E4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 011.wav",
+    "Note": "F4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 012.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 013.wav",
+    "Note": "G4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 014.wav",
+    "Note": "G#4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 015.wav",
+    "Note": "A4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 016.wav",
+    "Note": "A#4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 017.wav",
+    "Note": "B4",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 018.wav",
+    "Note": "C5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 019.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 020.wav",
+    "Note": "D5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 021.wav",
+    "Note": "D#5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 022.wav",
+    "Note": "E5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 023.wav",
+    "Note": "F5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 024.wav",
+    "Note": "F#5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 025.wav",
+    "Note": "G5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 026.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 027.wav",
+    "Note": "A5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 028.wav",
+    "Note": "A#5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-07 render 029.wav",
+    "Note": "B5",
+    "Presence_of_Vibrato": "vibrato at a standard rate",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 001.wav",
+    "Note": "G3",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 002.wav",
+    "Note": "G#3",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 003.wav",
+    "Note": "A3",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 004.wav",
+    "Note": "A#3",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 005.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 006.wav",
+    "Note": "C4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 007.wav",
+    "Note": "C#4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 008.wav",
+    "Note": "D4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 009.wav",
+    "Note": "D#4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 010.wav",
+    "Note": "E4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-08 render 011.wav",
+    "Note": "F4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 001.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 002.wav",
+    "Note": "G4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 003.wav",
+    "Note": "G#4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 004.wav",
+    "Note": "A4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 005.wav",
+    "Note": "A#4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 006.wav",
+    "Note": "B4",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 007.wav",
+    "Note": "C5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 008.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-10 render 009.wav",
+    "Note": "D5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 001.wav",
+    "Note": "D#5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 002.wav",
+    "Note": "E5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 003.wav",
+    "Note": "F5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 004.wav",
+    "Note": "F#5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 005.wav",
+    "Note": "G5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 006.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 007.wav",
+    "Note": "A5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 008.wav",
+    "Note": "A#5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-11 render 009.wav",
+    "Note": "B5",
+    "Presence_of_Vibrato": "slow vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 001.wav",
+    "Note": "G3",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 002.wav",
+    "Note": "G#3",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 003.wav",
+    "Note": "A3",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 004.wav",
+    "Note": "A#3",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 005.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 006.wav",
+    "Note": "C4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 007.wav",
+    "Note": "C#4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 008.wav",
+    "Note": "D4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 009.wav",
+    "Note": "D#4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 010.wav",
+    "Note": "E4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 011.wav",
+    "Note": "F4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 012.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 013.wav",
+    "Note": "G4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 014.wav",
+    "Note": "G#4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 015.wav",
+    "Note": "A4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 016.wav",
+    "Note": "A#4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 017.wav",
+    "Note": "B4",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 018.wav",
+    "Note": "C5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 019.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 020.wav",
+    "Note": "D5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 021.wav",
+    "Note": "D#5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 022.wav",
+    "Note": "E5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 023.wav",
+    "Note": "F5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-13 render 024.wav",
+    "Note": "F#5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-14 render 001.wav",
+    "Note": "G5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-14 render 002.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-14 render 003.wav",
+    "Note": "A5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-14 render 004.wav",
+    "Note": "A#5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-14 render 005.wav",
+    "Note": "B5",
+    "Presence_of_Vibrato": "fast vibrato",
+    "Type": "note"
+  },
+  {
+    "File_Name": "Neumman-15 render 001.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-15 render 002.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-16 render 001.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-16 render 002.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "no vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-17 render 001.wav",
+    "Note": "B3",
+    "Presence_of_Vibrato": "vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-18 render 001.wav",
+    "Note": "F#4",
+    "Presence_of_Vibrato": "vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-18 render 002.wav",
+    "Note": "C#5",
+    "Presence_of_Vibrato": "vibrato",
+    "Type": "melody"
+  },
+  {
+    "File_Name": "Neumman-19 render 001.wav",
+    "Note": "G#5",
+    "Presence_of_Vibrato": "vibrato",
+    "Type": "melody"
+  }
+]
